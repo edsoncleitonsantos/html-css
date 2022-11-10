@@ -1,2 +1,2 @@
 Os dados foram enviados!
-Aprenda PHp para saber o que fazer com eles.
+Aprenda PHP  para saber o que fazer com eles.
